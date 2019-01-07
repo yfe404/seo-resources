@@ -1,0 +1,12 @@
+* English links
+
+- [[https://schema.org/][Schema.org]] is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond. 
+- [[https://neilpatel.com/][Neil Patel]] - grow your traffic and revenue
+- [[https://backlinko.com/][Backlinko]] - SEO and traffic tips
+- [[https://salon.thefamily.co/the-google-seo-bible-everything-a-startup-needs-to-know-a60dbac2d060][The Google SEO Bible]] - Everything a Startup Needs to Know
+
+* French links
+
+- [[https://openclassrooms.com/fr/courses/2465141-les-cles-pour-reussir-son-referencement-web][Openclassroom]] - Les clés pour réussir son référencement web
+- [[https://www.facebook.com/sembuddy/][Sembuddy]] - Assistant personnel en référencement
+- [[https://openclassrooms.com/fr/courses/5561431-augmentez-votre-trafic-grace-au-referencement-naturel-seo][Openclassroom]] - Augmentez votre trafic grâce au référencement naturel (SEO)
